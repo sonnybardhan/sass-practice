@@ -1,0 +1,16 @@
+{
+  "name": "sass-practice",
+  "version": "1.0.0",
+  "description": "",
+  "source": "./course-sass-basics-start/src/index.html",
+  "scripts": {
+    "dev": "parcel"
+  },
+  "keywords": [],
+  "author": "Abhirup Bardhan <bardhan.abhirup@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
+    "parcel": "^2.7.0"
+  }
+}
